@@ -1,0 +1,138 @@
+[
+ {
+  "id": "sp500",
+  "symbol": "^GSPC"
+ },
+ {
+  "id": "nasdaq",
+  "symbol": "^IXIC"
+ },
+ {
+  "id": "ndx",
+  "symbol": "^NDX"
+ },
+ {
+  "id": "dow",
+  "symbol": "^DJI"
+ },
+ {
+  "id": "spy",
+  "symbol": "SPY"
+ },
+ {
+  "id": "qqq",
+  "symbol": "QQQ"
+ },
+ {
+  "id": "vti",
+  "symbol": "VTI"
+ },
+ {
+  "id": "schd",
+  "symbol": "SCHD"
+ },
+ {
+  "id": "jepi",
+  "symbol": "JEPI"
+ },
+ {
+  "id": "soxx",
+  "symbol": "SOXX"
+ },
+ {
+  "id": "tqqq",
+  "symbol": "TQQQ"
+ },
+ {
+  "id": "qld",
+  "symbol": "QLD"
+ },
+ {
+  "id": "upro",
+  "symbol": "UPRO"
+ },
+ {
+  "id": "soxl",
+  "symbol": "SOXL"
+ },
+ {
+  "id": "aapl",
+  "symbol": "AAPL"
+ },
+ {
+  "id": "msft",
+  "symbol": "MSFT"
+ },
+ {
+  "id": "nvda",
+  "symbol": "NVDA"
+ },
+ {
+  "id": "tsla",
+  "symbol": "TSLA"
+ },
+ {
+  "id": "amzn",
+  "symbol": "AMZN"
+ },
+ {
+  "id": "googl",
+  "symbol": "GOOGL"
+ },
+ {
+  "id": "meta",
+  "symbol": "META"
+ },
+ {
+  "id": "kospi",
+  "symbol": "^KS11"
+ },
+ {
+  "id": "kosdaq",
+  "symbol": "^KQ11"
+ },
+ {
+  "id": "samsung",
+  "symbol": "005930.KS"
+ },
+ {
+  "id": "hynix",
+  "symbol": "000660.KS"
+ },
+ {
+  "id": "kodex200",
+  "symbol": "069500.KS"
+ },
+ {
+  "id": "kodexlev",
+  "symbol": "122630.KS"
+ },
+ {
+  "id": "tigersp",
+  "symbol": "360750.KS"
+ },
+ {
+  "id": "tigerndx",
+  "symbol": "133690.KS"
+ },
+ {
+  "id": "btc",
+  "symbol": "BTC-USD"
+ },
+ {
+  "id": "eth",
+  "symbol": "ETH-USD"
+ },
+ {
+  "id": "tlt",
+  "symbol": "TLT"
+ },
+ {
+  "id": "ief",
+  "symbol": "IEF"
+ },
+ {
+  "id": "gld",
+  "symbol": "GLD"
+ }
+]
